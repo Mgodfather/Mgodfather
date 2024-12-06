@@ -1,16 +1,4 @@
-mynkk
-mgodfather69
-Online
 
-Dex — 04/12/2024 12:50
-MONGO_URI=mongodb://officeManager:securePassword123@localhost:27017/office-management-system?authSource=admin
-mynkk — Today at 13:16
-https://www.figma.com/design/1jUFYoQEGt1TIKVbiPdv8g/Techeunoia?node-id=0-1&node-type=canvas&t=nRZduQYIPjg6q6GO-0
-Figma
-Techeunoia
-Created with Figma
-Image
-Dex — Today at 16:55
 Hello![](https://media.tenor.com/E6oiUf7S48AAAAAi/pepega-write.gif)My name is Pradip Singh
 ==========================================================================================================================================
 
